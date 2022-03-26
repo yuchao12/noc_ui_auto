@@ -1,0 +1,24 @@
+2022-01-01 23:46:45 - get_log.py - [line:126] - INFO - [日志信息]: 开始执行用例
+2022-01-01 23:46:52 - get_log.py - [line:126] - INFO - [日志信息]: 用户登录
+2022-01-01 23:46:59 - get_log.py - [line:126] - INFO - [日志信息]: 设备状态是icon icon--online
+2022-01-01 23:47:04 - get_log.py - [line:126] - INFO - [日志信息]: 选择指定设备成功
+2022-01-01 23:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-01 23:47:11 - get_log.py - [line:126] - INFO - [日志信息]: 进入远程管理页面成功
+2022-01-01 23:47:11 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-01 23:47:11 - get_log.py - [line:126] - INFO - [日志信息]: web wan access 是勾选状态
+2022-01-01 23:47:19 - get_log.py - [line:126] - INFO - [日志信息]: toast提示Successful operation, go to Message Centre to check the result
+2022-01-01 23:47:19 - get_log.py - [line:126] - INFO - [日志信息]: 添加远程管理成功
+2022-01-01 23:47:19 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第3次
+2022-01-01 23:47:31 - get_log.py - [line:126] - INFO - [日志信息]: 进入消息中心页面成功
+2022-01-01 23:47:51 - get_log.py - [line:126] - INFO - [日志信息]: 公共用例: Web WAN Access Succeeded
+2022-01-01 23:47:51 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-01 23:47:56 - get_log.py - [line:126] - INFO - [日志信息]: 进入远程管理页面成功
+2022-01-01 23:47:56 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次检查web wan access页面
+2022-01-01 23:47:56 - get_log.py - [line:126] - INFO - [日志信息]: 实际的状态：el-checkbox__input is-checked
+2022-01-01 23:47:56 - get_log.py - [line:126] - INFO - [日志信息]: 期望的状态：el-checkbox__input is-checked
+2022-01-01 23:47:56 - get_log.py - [line:126] - INFO - [日志信息]: 实际的端口号：15451
+2022-01-01 23:47:56 - get_log.py - [line:126] - INFO - [日志信息]: 期望的端口号：15451
+2022-01-01 23:47:56 - get_log.py - [line:126] - INFO - [日志信息]: 实际的ip：192.168.127.223
+2022-01-01 23:47:56 - get_log.py - [line:126] - INFO - [日志信息]: 期望的ip：192.168.127.223
+2022-01-01 23:47:56 - get_log.py - [line:126] - INFO - [日志信息]: 配置的预期值与实际值相同，添加成功
+2022-01-01 23:47:56 - get_log.py - [line:126] - INFO - [日志信息]: 用例执行结束

@@ -1,0 +1,280 @@
+2022-01-03 22:45:17 - get_log.py - [line:126] - INFO - [日志信息]: 开始执行用例
+2022-01-03 22:45:23 - get_log.py - [line:126] - INFO - [日志信息]: 用户登录
+2022-01-03 22:45:30 - get_log.py - [line:126] - INFO - [日志信息]: 设备状态是icon icon--online
+2022-01-03 22:45:35 - get_log.py - [line:126] - INFO - [日志信息]: 选择指定设备成功
+2022-01-03 22:45:35 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:45:35 - get_log.py - [line:126] - INFO - [日志信息]: 开始进入到端口转发页面
+2022-01-03 22:45:40 - get_log.py - [line:126] - INFO - [日志信息]: 进入端口转发页面成功
+2022-01-03 22:45:43 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次添加端口转发
+2022-01-03 22:45:44 - get_log.py - [line:126] - INFO - [日志信息]: 添加端口成功
+2022-01-03 22:45:44 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第3次
+2022-01-03 22:45:56 - get_log.py - [line:126] - INFO - [日志信息]: 进入消息中心页面成功
+2022-01-03 22:46:16 - get_log.py - [line:126] - INFO - [日志信息]: 公共用例: Add port forwarding Succeeded
+2022-01-03 22:46:16 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:46:16 - get_log.py - [line:126] - INFO - [日志信息]: 开始进入到端口转发页面
+2022-01-03 22:46:20 - get_log.py - [line:126] - INFO - [日志信息]: 进入端口转发页面成功
+2022-01-03 22:46:23 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次检查端口转发配置
+2022-01-03 22:46:23 - get_log.py - [line:126] - INFO - [日志信息]: 实际的端口名 121x00x2
+2022-01-03 22:46:23 - get_log.py - [line:126] - INFO - [日志信息]: 预期的端口名 121x00x2
+2022-01-03 22:46:23 - get_log.py - [line:126] - INFO - [日志信息]: 实际的外网ip 12.11.0.0
+2022-01-03 22:46:23 - get_log.py - [line:126] - INFO - [日志信息]: 预期的外网ip 12.11.0.0
+2022-01-03 22:46:23 - get_log.py - [line:126] - INFO - [日志信息]: 实际的第一个外网端口 20000
+2022-01-03 22:46:23 - get_log.py - [line:126] - INFO - [日志信息]: 预期的第一个外网端口 20000
+2022-01-03 22:46:23 - get_log.py - [line:126] - INFO - [日志信息]: 实际的第二个外网端口 20005
+2022-01-03 22:46:23 - get_log.py - [line:126] - INFO - [日志信息]: 预期的第二个外网端口 20005
+2022-01-03 22:46:24 - get_log.py - [line:126] - INFO - [日志信息]: 实际的协议 TCP&UDP
+2022-01-03 22:46:24 - get_log.py - [line:126] - INFO - [日志信息]: 预期的协议 TCP&UDP
+2022-01-03 22:46:24 - get_log.py - [line:126] - INFO - [日志信息]: 实际的本地ip和端口号 192.168.127.126/20000-20005
+2022-01-03 22:46:24 - get_log.py - [line:126] - INFO - [日志信息]: 预期的本地ip和端口号 192.168.127.126/20000-20005
+2022-01-03 22:46:24 - get_log.py - [line:126] - INFO - [日志信息]: 添加TCP&UDP协议的端口转发成功
+2022-01-03 22:46:24 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:46:24 - get_log.py - [line:126] - INFO - [日志信息]: 已经在端口转发页面，刷新页面
+2022-01-03 22:46:24 - get_log.py - [line:126] - INFO - [日志信息]: 进入端口转发页面成功
+2022-01-03 22:46:27 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次添加端口转发
+2022-01-03 22:46:28 - get_log.py - [line:126] - INFO - [日志信息]: 添加端口成功
+2022-01-03 22:46:28 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第3次
+2022-01-03 22:46:40 - get_log.py - [line:126] - INFO - [日志信息]: 进入消息中心页面成功
+2022-01-03 22:47:00 - get_log.py - [line:126] - INFO - [日志信息]: 公共用例: Add port forwarding Succeeded
+2022-01-03 22:47:00 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:47:00 - get_log.py - [line:126] - INFO - [日志信息]: 开始进入到端口转发页面
+2022-01-03 22:47:04 - get_log.py - [line:126] - INFO - [日志信息]: 进入端口转发页面成功
+2022-01-03 22:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次检查端口转发配置
+2022-01-03 22:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 实际的端口名 2333SD
+2022-01-03 22:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 预期的端口名 2333SD
+2022-01-03 22:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 实际的外网ip 10.70.0.2
+2022-01-03 22:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 预期的外网ip 10.70.0.2
+2022-01-03 22:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 实际的第一个外网端口 20006
+2022-01-03 22:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 预期的第一个外网端口 20006
+2022-01-03 22:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 实际的第二个外网端口 20009
+2022-01-03 22:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 预期的第二个外网端口 20009
+2022-01-03 22:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 实际的协议 TCP
+2022-01-03 22:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 预期的协议 TCP
+2022-01-03 22:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 实际的本地ip和端口号 192.168.127.139/20006-20009
+2022-01-03 22:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 预期的本地ip和端口号 192.168.127.139/20006-20009
+2022-01-03 22:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 添加TCP协议的端口转发成功
+2022-01-03 22:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:47:07 - get_log.py - [line:126] - INFO - [日志信息]: 已经在端口转发页面，刷新页面
+2022-01-03 22:47:08 - get_log.py - [line:126] - INFO - [日志信息]: 进入端口转发页面成功
+2022-01-03 22:47:11 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次添加端口转发
+2022-01-03 22:47:12 - get_log.py - [line:126] - INFO - [日志信息]: 添加端口成功
+2022-01-03 22:47:12 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第3次
+2022-01-03 22:47:24 - get_log.py - [line:126] - INFO - [日志信息]: 进入消息中心页面成功
+2022-01-03 22:47:44 - get_log.py - [line:126] - INFO - [日志信息]: 公共用例: Add port forwarding Succeeded
+2022-01-03 22:47:44 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:47:44 - get_log.py - [line:126] - INFO - [日志信息]: 开始进入到端口转发页面
+2022-01-03 22:47:49 - get_log.py - [line:126] - INFO - [日志信息]: 进入端口转发页面成功
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次检查端口转发配置
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 实际的端口名 2SADSAD
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 预期的端口名 2SADSAD
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 实际的外网ip 199.70.0.2
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 预期的外网ip 199.70.0.2
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 实际的第一个外网端口 1
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 预期的第一个外网端口 1
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 实际的第二个外网端口 2
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 预期的第二个外网端口 2
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 实际的协议 UDP
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 预期的协议 UDP
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 实际的本地ip和端口号 192.168.127.122/1-2
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 预期的本地ip和端口号 192.168.127.122/1-2
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 添加UDP协议的端口转发成功
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 已经在端口转发页面，刷新页面
+2022-01-03 22:47:52 - get_log.py - [line:126] - INFO - [日志信息]: 进入端口转发页面成功
+2022-01-03 22:47:55 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次编辑端口转发
+2022-01-03 22:48:04 - get_log.py - [line:126] - INFO - [日志信息]: 编辑成功
+2022-01-03 22:48:04 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第3次
+2022-01-03 22:48:15 - get_log.py - [line:126] - INFO - [日志信息]: 进入消息中心页面成功
+2022-01-03 22:48:36 - get_log.py - [line:126] - INFO - [日志信息]: 公共用例: Modify port forwarding Succeeded
+2022-01-03 22:48:36 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:48:36 - get_log.py - [line:126] - INFO - [日志信息]: 开始进入到端口转发页面
+2022-01-03 22:48:40 - get_log.py - [line:126] - INFO - [日志信息]: 进入端口转发页面成功
+2022-01-03 22:48:43 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次检查端口转发配置
+2022-01-03 22:48:43 - get_log.py - [line:126] - INFO - [日志信息]: 实际的端口名 29xx89D
+2022-01-03 22:48:43 - get_log.py - [line:126] - INFO - [日志信息]: 预期的端口名 29xx89D
+2022-01-03 22:48:43 - get_log.py - [line:126] - INFO - [日志信息]: 实际的外网ip 199.10.1.3
+2022-01-03 22:48:43 - get_log.py - [line:126] - INFO - [日志信息]: 预期的外网ip 199.10.1.3
+2022-01-03 22:48:43 - get_log.py - [line:126] - INFO - [日志信息]: 实际的第一个外网端口 3
+2022-01-03 22:48:43 - get_log.py - [line:126] - INFO - [日志信息]: 预期的第一个外网端口 3
+2022-01-03 22:48:43 - get_log.py - [line:126] - INFO - [日志信息]: 实际的第二个外网端口 4
+2022-01-03 22:48:43 - get_log.py - [line:126] - INFO - [日志信息]: 预期的第二个外网端口 4
+2022-01-03 22:48:43 - get_log.py - [line:126] - INFO - [日志信息]: 实际的协议 TCP&UDP
+2022-01-03 22:48:43 - get_log.py - [line:126] - INFO - [日志信息]: 预期的协议 TCP&UDP
+2022-01-03 22:48:43 - get_log.py - [line:126] - INFO - [日志信息]: 实际的本地ip和端口号 192.168.127.141/3-4
+2022-01-03 22:48:43 - get_log.py - [line:126] - INFO - [日志信息]: 预期的本地ip和端口号 192.168.127.141/3-4
+2022-01-03 22:48:43 - get_log.py - [line:126] - INFO - [日志信息]: 修改UDP协议的端口转发成功
+2022-01-03 22:48:43 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:48:43 - get_log.py - [line:126] - INFO - [日志信息]: 已经在端口转发页面，刷新页面
+2022-01-03 22:48:44 - get_log.py - [line:126] - INFO - [日志信息]: 进入端口转发页面成功
+2022-01-03 22:48:47 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次删除端口转发
+2022-01-03 22:48:47 - get_log.py - [line:126] - INFO - [日志信息]: toast提示Successful operation, go to Message Centre to check the result
+2022-01-03 22:48:47 - get_log.py - [line:126] - INFO - [日志信息]: 删除成功
+2022-01-03 22:48:47 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第3次
+2022-01-03 22:49:00 - get_log.py - [line:126] - INFO - [日志信息]: 进入消息中心页面成功
+2022-01-03 22:49:21 - get_log.py - [line:126] - INFO - [日志信息]: 公共用例: Remove port forwarding Succeeded
+2022-01-03 22:49:21 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:49:21 - get_log.py - [line:126] - INFO - [日志信息]: 开始进入到端口转发页面
+2022-01-03 22:49:25 - get_log.py - [line:126] - INFO - [日志信息]: 进入端口转发页面成功
+2022-01-03 22:49:28 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次检查删除是否成功
+2022-01-03 22:49:43 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第3次
+2022-01-03 22:49:55 - get_log.py - [line:126] - INFO - [日志信息]: 进入消息中心页面成功
+2022-01-03 22:50:16 - get_log.py - [line:126] - INFO - [日志信息]: 公共用例: Remove port forwarding Succeeded
+2022-01-03 22:50:16 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:50:16 - get_log.py - [line:126] - INFO - [日志信息]: 开始进入到端口转发页面
+2022-01-03 22:50:20 - get_log.py - [line:126] - INFO - [日志信息]: 进入端口转发页面成功
+2022-01-03 22:50:23 - get_log.py - [line:126] - INFO - [日志信息]: 这是第2次检查删除是否成功
+2022-01-03 22:50:38 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第3次
+2022-01-03 22:50:51 - get_log.py - [line:126] - INFO - [日志信息]: 进入消息中心页面成功
+2022-01-03 22:51:12 - get_log.py - [line:126] - INFO - [日志信息]: 公共用例: Remove port forwarding Succeeded
+2022-01-03 22:51:12 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:51:12 - get_log.py - [line:126] - INFO - [日志信息]: 开始进入到端口转发页面
+2022-01-03 22:51:16 - get_log.py - [line:126] - INFO - [日志信息]: 进入端口转发页面成功
+2022-01-03 22:51:19 - get_log.py - [line:126] - INFO - [日志信息]: 这是第3次检查删除是否成功
+2022-01-03 22:51:34 - get_log.py - [line:126] - INFO - [日志信息]: 删除成功
+2022-01-03 22:51:34 - get_log.py - [line:126] - INFO - [日志信息]: 删除TCP协议的端口转发成功
+2022-01-03 22:51:37 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:51:42 - get_log.py - [line:126] - INFO - [日志信息]: 进入远程管理页面成功
+2022-01-03 22:51:42 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:51:42 - get_log.py - [line:126] - INFO - [日志信息]: web wan access 是勾选状态
+2022-01-03 22:51:49 - get_log.py - [line:126] - INFO - [日志信息]: toast提示Successful operation, go to Message Centre to check the result
+2022-01-03 22:51:49 - get_log.py - [line:126] - INFO - [日志信息]: 添加远程管理成功
+2022-01-03 22:51:49 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第3次
+2022-01-03 22:52:02 - get_log.py - [line:126] - INFO - [日志信息]: 进入消息中心页面成功
+2022-01-03 22:52:23 - get_log.py - [line:126] - INFO - [日志信息]: 公共用例: Web WAN Access Succeeded
+2022-01-03 22:52:23 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:52:27 - get_log.py - [line:126] - INFO - [日志信息]: 进入远程管理页面成功
+2022-01-03 22:52:27 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次检查web wan access页面
+2022-01-03 22:52:27 - get_log.py - [line:126] - INFO - [日志信息]: 实际的状态：el-checkbox__input is-checked
+2022-01-03 22:52:27 - get_log.py - [line:126] - INFO - [日志信息]: 期望的状态：el-checkbox__input is-checked
+2022-01-03 22:52:27 - get_log.py - [line:126] - INFO - [日志信息]: 实际的端口号：15451
+2022-01-03 22:52:27 - get_log.py - [line:126] - INFO - [日志信息]: 期望的端口号：15451
+2022-01-03 22:52:27 - get_log.py - [line:126] - INFO - [日志信息]: 实际的ip：192.168.127.223
+2022-01-03 22:52:27 - get_log.py - [line:126] - INFO - [日志信息]: 期望的ip：192.168.127.223
+2022-01-03 22:52:27 - get_log.py - [line:126] - INFO - [日志信息]: 配置的预期值与实际值相同，添加成功
+2022-01-03 22:52:27 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:52:27 - get_log.py - [line:126] - INFO - [日志信息]: 刷新页面
+2022-01-03 22:52:27 - get_log.py - [line:126] - INFO - [日志信息]: 进入远程管理页面成功
+2022-01-03 22:52:27 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:52:27 - get_log.py - [line:126] - INFO - [日志信息]: web wan access 是未勾选状态
+2022-01-03 22:52:35 - get_log.py - [line:126] - INFO - [日志信息]: 这是第2次进入
+2022-01-03 22:52:35 - get_log.py - [line:126] - INFO - [日志信息]: web wan access 是勾选状态
+2022-01-03 22:52:36 - get_log.py - [line:126] - INFO - [日志信息]: toast提示Successful operation, go to Message Centre to check the result
+2022-01-03 22:52:36 - get_log.py - [line:126] - INFO - [日志信息]: 修改远程管理成功
+2022-01-03 22:52:36 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第3次
+2022-01-03 22:52:48 - get_log.py - [line:126] - INFO - [日志信息]: 进入消息中心页面成功
+2022-01-03 22:53:08 - get_log.py - [line:126] - INFO - [日志信息]: 公共用例: Web WAN Access Succeeded
+2022-01-03 22:53:08 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:53:12 - get_log.py - [line:126] - INFO - [日志信息]: 进入远程管理页面成功
+2022-01-03 22:53:12 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次检查web wan access页面
+2022-01-03 22:53:12 - get_log.py - [line:126] - INFO - [日志信息]: 实际的状态：el-checkbox__input is-checked
+2022-01-03 22:53:12 - get_log.py - [line:126] - INFO - [日志信息]: 期望的状态：el-checkbox__input is-checked
+2022-01-03 22:53:12 - get_log.py - [line:126] - INFO - [日志信息]: 实际的端口号：2333
+2022-01-03 22:53:12 - get_log.py - [line:126] - INFO - [日志信息]: 期望的端口号：2333
+2022-01-03 22:53:12 - get_log.py - [line:126] - INFO - [日志信息]: 实际的ip：192.168.127.133
+2022-01-03 22:53:12 - get_log.py - [line:126] - INFO - [日志信息]: 期望的ip：192.168.127.133
+2022-01-03 22:53:12 - get_log.py - [line:126] - INFO - [日志信息]: 修改的预期值与实际值相同，修改成功
+2022-01-03 22:53:12 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:53:12 - get_log.py - [line:126] - INFO - [日志信息]: 开始进入到VPN页面
+2022-01-03 22:53:17 - get_log.py - [line:126] - INFO - [日志信息]: 进入VPN页面成功
+2022-01-03 22:53:20 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:53:23 - get_log.py - [line:126] - INFO - [日志信息]: 这是第2次进入
+2022-01-03 22:53:24 - get_log.py - [line:126] - INFO - [日志信息]: 添加VPN成功
+2022-01-03 22:53:24 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第3次
+2022-01-03 22:53:36 - get_log.py - [line:126] - INFO - [日志信息]: 进入消息中心页面成功
+2022-01-03 22:53:56 - get_log.py - [line:126] - INFO - [日志信息]: 公共用例: Add VPN Succeeded
+2022-01-03 22:53:56 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:53:56 - get_log.py - [line:126] - INFO - [日志信息]: 开始进入到VPN页面
+2022-01-03 22:54:01 - get_log.py - [line:126] - INFO - [日志信息]: 进入VPN页面成功
+2022-01-03 22:54:04 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次检查VPN配置
+2022-01-03 22:54:04 - get_log.py - [line:126] - INFO - [日志信息]: 预期的名称为 dasdaskjx
+2022-01-03 22:54:04 - get_log.py - [line:126] - INFO - [日志信息]: 实际的名称为 dasdaskjx
+2022-01-03 22:54:04 - get_log.py - [line:126] - INFO - [日志信息]: 预期的服务器为 vpn.hyku
+2022-01-03 22:54:04 - get_log.py - [line:126] - INFO - [日志信息]: 实际的服务器为 vpn.hyku
+2022-01-03 22:54:04 - get_log.py - [line:126] - INFO - [日志信息]: 预期的用户名为 cccc
+2022-01-03 22:54:04 - get_log.py - [line:126] - INFO - [日志信息]: 实际的用户名为 cccc
+2022-01-03 22:54:04 - get_log.py - [line:126] - INFO - [日志信息]: 预期的协议为 L2TP
+2022-01-03 22:54:04 - get_log.py - [line:126] - INFO - [日志信息]: 实际的协议为 L2TP
+2022-01-03 22:54:04 - get_log.py - [line:126] - INFO - [日志信息]: 预期的密码为 123456789
+2022-01-03 22:54:04 - get_log.py - [line:126] - INFO - [日志信息]: 实际的密码为 123456789
+2022-01-03 22:54:04 - get_log.py - [line:126] - INFO - [日志信息]: 添加L2TP协议的VPN成功
+2022-01-03 22:54:04 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:54:04 - get_log.py - [line:126] - INFO - [日志信息]: 刷新页面
+2022-01-03 22:54:04 - get_log.py - [line:126] - INFO - [日志信息]: 进入VPN页面成功
+2022-01-03 22:54:07 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:54:08 - get_log.py - [line:126] - INFO - [日志信息]: 添加VPN成功
+2022-01-03 22:54:08 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第3次
+2022-01-03 22:54:20 - get_log.py - [line:126] - INFO - [日志信息]: 进入消息中心页面成功
+2022-01-03 22:54:40 - get_log.py - [line:126] - INFO - [日志信息]: 公共用例: Add VPN Succeeded
+2022-01-03 22:54:40 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:54:40 - get_log.py - [line:126] - INFO - [日志信息]: 开始进入到VPN页面
+2022-01-03 22:54:45 - get_log.py - [line:126] - INFO - [日志信息]: 进入VPN页面成功
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次检查VPN配置
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: 预期的名称为 张三123abcABC../
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: 实际的名称为 张三123abcABC../
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: 预期的服务器为 vpn.hyku.org
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: 实际的服务器为 vpn.hyku.org
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: 预期的用户名为 ycccccc
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: 实际的用户名为 ycccccc
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: 预期的协议为 PPTP
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: 实际的协议为 PPTP
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: 预期的密码为 123456789
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: 实际的密码为 123456789
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: mppe预期的勾选状态为 el-checkbox is-checked
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: mppe实际的勾选状态为 el-checkbox is-checked
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: mppc预期的勾选状态为 el-checkbox is-checked
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: mppc实际的勾选状态为 el-checkbox is-checked
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: 添加PPTP协议的VPN成功
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: 刷新页面
+2022-01-03 22:54:48 - get_log.py - [line:126] - INFO - [日志信息]: 进入VPN页面成功
+2022-01-03 22:54:51 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:54:56 - get_log.py - [line:126] - INFO - [日志信息]: 编辑VPN成功
+2022-01-03 22:54:56 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第3次
+2022-01-03 22:55:08 - get_log.py - [line:126] - INFO - [日志信息]: 进入消息中心页面成功
+2022-01-03 22:55:28 - get_log.py - [line:126] - INFO - [日志信息]: 公共用例: Modify VPN Succeeded
+2022-01-03 22:55:28 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:55:28 - get_log.py - [line:126] - INFO - [日志信息]: 开始进入到VPN页面
+2022-01-03 22:55:33 - get_log.py - [line:126] - INFO - [日志信息]: 进入VPN页面成功
+2022-01-03 22:55:36 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次检查VPN配置
+2022-01-03 22:55:36 - get_log.py - [line:126] - INFO - [日志信息]: 预期的名称为 dsdsasad
+2022-01-03 22:55:36 - get_log.py - [line:126] - INFO - [日志信息]: 实际的名称为 dsdsasad
+2022-01-03 22:55:36 - get_log.py - [line:126] - INFO - [日志信息]: 预期的服务器为 vpn.org
+2022-01-03 22:55:36 - get_log.py - [line:126] - INFO - [日志信息]: 实际的服务器为 vpn.org
+2022-01-03 22:55:36 - get_log.py - [line:126] - INFO - [日志信息]: 预期的用户名为 sdsl12sd
+2022-01-03 22:55:36 - get_log.py - [line:126] - INFO - [日志信息]: 实际的用户名为 sdsl12sd
+2022-01-03 22:55:36 - get_log.py - [line:126] - INFO - [日志信息]: 预期的协议为 PPTP
+2022-01-03 22:55:36 - get_log.py - [line:126] - INFO - [日志信息]: 实际的协议为 PPTP
+2022-01-03 22:55:36 - get_log.py - [line:126] - INFO - [日志信息]: 预期的密码为 1dsf2589
+2022-01-03 22:55:36 - get_log.py - [line:126] - INFO - [日志信息]: 实际的密码为 1dsf2589
+2022-01-03 22:55:36 - get_log.py - [line:126] - INFO - [日志信息]: 修改的预期值与实际的值一致，修改成功
+2022-01-03 22:55:36 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:55:36 - get_log.py - [line:126] - INFO - [日志信息]: 刷新页面
+2022-01-03 22:55:36 - get_log.py - [line:126] - INFO - [日志信息]: 进入VPN页面成功
+2022-01-03 22:55:39 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次删除VPN
+2022-01-03 22:55:39 - get_log.py - [line:126] - INFO - [日志信息]: toast提示Successful operation, go to Message Centre to check the result
+2022-01-03 22:55:39 - get_log.py - [line:126] - INFO - [日志信息]: 删除成功
+2022-01-03 22:55:39 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第3次
+2022-01-03 22:55:51 - get_log.py - [line:126] - INFO - [日志信息]: 进入消息中心页面成功
+2022-01-03 22:56:12 - get_log.py - [line:126] - INFO - [日志信息]: 公共用例: Delete VPN Succeeded
+2022-01-03 22:56:12 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:56:12 - get_log.py - [line:126] - INFO - [日志信息]: 开始进入到VPN页面
+2022-01-03 22:56:16 - get_log.py - [line:126] - INFO - [日志信息]: 进入VPN页面成功
+2022-01-03 22:56:19 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次检查删除是否成功
+2022-01-03 22:56:34 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第3次
+2022-01-03 22:56:47 - get_log.py - [line:126] - INFO - [日志信息]: 进入消息中心页面成功
+2022-01-03 22:57:07 - get_log.py - [line:126] - INFO - [日志信息]: 公共用例: Delete VPN Succeeded
+2022-01-03 22:57:07 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:57:07 - get_log.py - [line:126] - INFO - [日志信息]: 开始进入到VPN页面
+2022-01-03 22:57:12 - get_log.py - [line:126] - INFO - [日志信息]: 进入VPN页面成功
+2022-01-03 22:57:15 - get_log.py - [line:126] - INFO - [日志信息]: 这是第2次检查删除是否成功
+2022-01-03 22:57:30 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第3次
+2022-01-03 22:57:34 - get_log.py - [line:126] - INFO - [日志信息]: 这是进入setting/messages页倒数第2次
+2022-01-03 22:57:34 - get_log.py - [line:126] - INFO - [日志信息]: 刷新
+2022-01-03 22:57:46 - get_log.py - [line:126] - INFO - [日志信息]: 进入消息中心页面成功
+2022-01-03 22:58:07 - get_log.py - [line:126] - INFO - [日志信息]: 公共用例: Delete VPN Succeeded
+2022-01-03 22:58:07 - get_log.py - [line:126] - INFO - [日志信息]: 这是第1次进入
+2022-01-03 22:58:07 - get_log.py - [line:126] - INFO - [日志信息]: 开始进入到VPN页面
+2022-01-03 22:58:11 - get_log.py - [line:126] - INFO - [日志信息]: 进入VPN页面成功
+2022-01-03 22:58:14 - get_log.py - [line:126] - INFO - [日志信息]: 这是第3次检查删除是否成功
+2022-01-03 22:58:29 - get_log.py - [line:126] - INFO - [日志信息]: 删除成功
+2022-01-03 22:58:29 - get_log.py - [line:126] - INFO - [日志信息]: 删除PPTP协议的VPN成功
+2022-01-03 22:58:29 - get_log.py - [line:126] - INFO - [日志信息]: 用例执行结束
