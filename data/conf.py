@@ -8,17 +8,17 @@ Created on 2021年10月22日
 # ===========================================================================
 """进入noc"""
 #url = model_select.url
-url ='https://noc.merckuwifi.net/login'
+#url ='https://noc.merckuwifi.net/login'
+url ='https://noc-test.merckuwifi.com/login'
 # ===========================================================================
 """登录账号密码"""
 #root_password = model_select.root_username
 #root_username = model_select.root_password
+root_username = 'yuchao'
 root_password = '12345678'
-root_username = '123456'
 """搜索sn"""
-#except_sn='060052102000892'
-except_sn='060052041000034'
-#except_sn='010011832201609'
+except_sn='010011832201480'
+#except_sn='060052041000034'
 """web wan access  远程管理模块====================================================================================="""
 """remote_management"""
 """【保存】开关打开时，且当端口号和IP地址格式都正确，点击“保存”后有toast提示【NOC-7391】"""
