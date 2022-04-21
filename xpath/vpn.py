@@ -9,7 +9,7 @@ class vpn (object):
     add_button = '//span[text()=" Add "]' #添加按钮
     move_set = '//div[text()="Advanced"]'  # 移动到Advanced settings
     move_vpn = '//li[contains(text(), " VPN ")]'  # 移动到vpn
-    expect_url= 'https://noc.merckuwifi.net/mesh/{}/setting/vpn' # vpn网址
+    expect_url= 'https://noc-test.merckuwifi.com/mesh/{}/setting/vpn' # vpn网址
     select = '//label[text()="Protocol"]/following::input[1]'  # 选择协议的下拉框
     protocol = '//span[text()="{}"]' # 选择协议
     input_name = '//label[text()="Name"]/following::input[1]' # 名字输入框

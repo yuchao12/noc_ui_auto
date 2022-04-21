@@ -12,5 +12,6 @@ class  remote_management (object):
     port='//label[text()="Port"]/following::input[1]' # 端口输入框
     ip='//label[text()="IP"]/following::input[1]' # IP地址输入框
     save_button='//button[@type="button"]'# 保存按钮
-    expect_url='https://noc.merckuwifi.net/mesh/{}/setting/remote'  #预期的网址
+    expect_url='https://noc-test.merckuwifi.com/mesh/{}/setting/remote'
+    #预期的网址
     toast = '//p[@class="el-message__content"]'  # 操作提示

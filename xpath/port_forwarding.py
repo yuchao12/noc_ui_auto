@@ -14,7 +14,7 @@ class  port_forwarding (object):
     remote_ip = '//label[text()="Remote IP"]/following::input[1]' #外网ip输入框
     local_ip = '//label[text()="Local IP"]/following::input[1]' #本地ip地址输入框
     save = '//button[@class="el-button el-button--primary"]' #保存按钮
-    expect_url = 'https://noc.merckuwifi.net/mesh/{}/setting/portforwarding' #预期网址,引用设备的SN号
+    expect_url = 'https://noc-test.merckuwifi.com/mesh/{}/setting/portforwarding' #预期网址,引用设备的SN号
     protocol = '//span[text()="{}"]'  # 选择协议
     edit_name = "//div[text()=' {} ' ]/preceding::td[2]/div" # 编辑的行的端口转发名
     edit_ip_port = "//div[text()=' {} ' ]/preceding::td[1]/div" # 编辑的行的外网ip和端口号
