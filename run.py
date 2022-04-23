@@ -18,4 +18,3 @@ if __name__ == "__main__":
     write_json_data(report_title)
     send().make_zip('./report','测试报告文件.zip')
     send().send_emial()
-    print(111)
