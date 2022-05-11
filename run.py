@@ -16,5 +16,5 @@ if __name__ == "__main__":
     set_windos_title("NOC 自动化测试报告")
     report_title = get_json_data("NOC 自动化测试报告")
     write_json_data(report_title)
-    send().make_zip('./report','测试报告文件.zip')
-    send().send_emial()
+    # send().make_zip('./report','测试报告文件.zip')
+    # send().send_emial()
