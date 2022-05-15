@@ -39,6 +39,7 @@ def driver():
     # 进入设备列表
     js = 'document.getElementsByClassName("el-menu-item")[2].click()'
     driver.execute_script(js)
+    #driver.get_screenshot_as_file(r'D:\noc_ui_auto\screenshot\sss.png')
     time.sleep(3)
     # 选择指定设备
     search_sn_and_click(driver, conf.except_sn, "online", 3)
