@@ -29,7 +29,7 @@ def delet_log():
 @pytest.fixture(scope='session',autouse=True)
 def driver():
     get_log().info('开始执行用例')
-    driver = webdriver.Chrome(executable_path=r'E:\software\webdriver\chromedriver.exe')
+    driver = webdriver.Chrome(executable_path=r'D:\software\webdriver\chromedriver.exe')
     driver.get(conf.url)
     driver.maximize_window()
     driver.implicitly_wait(10)
@@ -39,7 +39,8 @@ def driver():
     # 进入设备列表
     js = 'document.getElementsByClassName("el-menu-item")[2].click()'
     driver.execute_script(js)
-    #driver.get_screenshot_as_file(r'D:\noc_ui_auto\screenshot\sss.png')
+    time.sleep(1)
+    driver.get_screenshot_as_file(r'D:\noc_ui_auto\screenshot\{}.png'.format(datetime.now().strftime('%Y-%m-%d')))
     time.sleep(3)
     # 选择指定设备
     search_sn_and_click(driver, conf.except_sn, "online", 3)
