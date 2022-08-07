@@ -29,7 +29,7 @@ def delet_log():
 @pytest.fixture(scope='session',autouse=True)
 def driver():
     get_log().info('开始执行用例')
-    driver = webdriver.Chrome(executable_path=r'D:\software\webdriver\chromedriver.exe')
+    driver = webdriver.Chrome(executable_path=r'E:\webdriver\chromedriver.exe')
     driver.get(conf.url)
     driver.maximize_window()
     driver.implicitly_wait(10)
