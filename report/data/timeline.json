@@ -1,5 +1,47 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "DESKTOP-B3TKPEE",
+    "children" : [ {
+      "name" : "1400-MainThread",
+      "children" : [ {
+        "name" : "【正确性检查】能正常修改配置，并下发成功【NOC-10087】",
+        "uid" : "41db92cbeee5057d",
+        "parentUid" : "2d63b4712bfa3e43744c9f68e4c7062d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1659848596734,
+          "stop" : 1659848609838,
+          "duration" : 13104
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "【保存】开关打开时，且当端口号和IP地址格式都正确，点击“保存”后有toast提示【NOC-7391】",
+        "uid" : "e1255c59f8084faa",
+        "parentUid" : "2d63b4712bfa3e43744c9f68e4c7062d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1659848580474,
+          "stop" : 1659848596676,
+          "duration" : 16202
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2d63b4712bfa3e43744c9f68e4c7062d"
+    } ],
+    "uid" : "8a3a07956974071eac28be4325b3de6a"
+  } ]
 }

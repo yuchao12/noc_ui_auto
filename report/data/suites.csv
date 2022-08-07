@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sun Aug 07 13:03:16 CST 2022","Sun Aug 07 13:03:29 CST 2022","13104","testcase","test_remote_management","Test_remote_management","","","【正确性检查】能正常修改配置，并下发成功【NOC-10087】","【正确性检查】能正常修改配置，并下发成功【NOC-10087】"
+"failed","Sun Aug 07 13:03:00 CST 2022","Sun Aug 07 13:03:16 CST 2022","16202","testcase","test_remote_management","Test_remote_management","","","【保存】开关打开时，且当端口号和IP地址格式都正确，点击“保存”后有toast提示【NOC-7391】","【保存】开关打开时，且当端口号和IP地址格式都正确，点击“保存”后有toast提示【NOC-7391】"

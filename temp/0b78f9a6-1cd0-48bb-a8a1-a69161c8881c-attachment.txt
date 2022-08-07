@@ -1,0 +1,5 @@
+INFO     root:get_log.py:133 这是第1次进入
+INFO     root:get_log.py:133 这是第2次进入
+INFO     root:get_log.py:133 这是第3次进入
+ERROR    root:get_log.py:140 进入远程管理页面失败
+INFO     root:get_log.py:133 用例执行结束

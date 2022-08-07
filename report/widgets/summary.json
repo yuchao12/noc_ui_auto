@@ -2,12 +2,19 @@
     "reportName": "NOC 自动化测试报告",
     "testRuns": [],
     "statistic": {
-        "failed": 0,
+        "failed": 2,
         "broken": 0,
         "skipped": 0,
         "passed": 0,
         "unknown": 0,
-        "total": 0
+        "total": 2
     },
-    "time": {}
+    "time": {
+        "start": 1659848580474,
+        "stop": 1659848609838,
+        "duration": 29364,
+        "minDuration": 13104,
+        "maxDuration": 16202,
+        "sumDuration": 29306
+    }
 }

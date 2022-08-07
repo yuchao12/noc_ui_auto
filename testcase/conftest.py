@@ -40,7 +40,8 @@ def driver():
     js = 'document.getElementsByClassName("el-menu-item")[2].click()'
     driver.execute_script(js)
     time.sleep(1)
-    driver.get_screenshot_as_file(r'D:\noc_ui_auto\screenshot\{}.png'.format(datetime.now().strftime('%Y-%m-%d')))
+    driver.get_screenshot_as_file(r'F:\Project\noc_ui_auto\screenshot\{}.png'.format(datetime.now().strftime('%Y-%m-%d')))
+    get_log().info('截图成功')
     time.sleep(3)
     # 选择指定设备
     search_sn_and_click(driver, conf.except_sn, "online", 3)
