@@ -31,7 +31,7 @@ class send():
         zipf.close()
 
     def send_emial(self):
-        filepath = r'D:\noc_auto\测试报告文件.zip'
+        filepath = r'E:\Project\noc_ui_auto\测试报告文件.zip'
         smtp_server = "smtp.qq.com"
         username = "2373551676@qq.com"
         password = "xidhoahntzfpecbc"

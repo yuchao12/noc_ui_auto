@@ -7,7 +7,7 @@ Created on 2021年10月23日
 
 import json
 
-title_filepath = r"F:\Project\noc_ui_auto\report\widgets\summary.json"
+title_filepath = r"E:\Project\noc_ui_auto\report\widgets\summary.json"
 # 获取 summary.json 文件的数据内容
 def get_json_data(name):
     # 定义为只读模型，并定义名称为f
@@ -39,7 +39,7 @@ def set_windos_title(new_title):
     @return: 没有返回内容，调用此方法传入需要更改的文案即可修改窗体标题温拿
     """
     # report_title_filepath：这里主要是去拿到你的HTML测试报告的绝对路径【记得换成你自己的】
-    report_title_filepath = r"F:\Project\noc_ui_auto\report\index.html"
+    report_title_filepath = r"E:\Project\noc_ui_auto\report\index.html"
     # 定义为只读模型，并定义名称为: f
     with open(report_title_filepath, 'r+',encoding="utf-8") as f:
         # 读取当前文件的所有内容
