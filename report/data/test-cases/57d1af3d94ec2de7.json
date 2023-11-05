@@ -1,18 +1,18 @@
 {
-  "uid" : "508bc4929cc3f3cf",
+  "uid" : "57d1af3d94ec2de7",
   "name" : "【正确性检查】能正常修改配置，并下发成功【NOC-10087】",
   "fullName" : "testcase.test_remote_management.Test_remote_management#test_2_edit_web_wan_access",
   "historyId" : "293ff61d33700cc4790036a95c8e1269",
   "time" : {
-    "start" : 1699174616103,
-    "stop" : 1699174616103,
+    "start" : 1699176406955,
+    "stop" : 1699176406955,
     "duration" : 0
   },
   "description" : "【正确性检查】能正常修改配置，并下发成功【NOC-10087】",
   "descriptionHtml" : "<p>【正确性检查】能正常修改配置，并下发成功【NOC-10087】</p>\n",
   "status" : "broken",
   "statusMessage" : "selenium.common.exceptions.TimeoutException: Message:",
-  "statusTrace" : "@pytest.fixture(scope='session',autouse=True)\n    def driver():\n        get_log().info('开始执行用例')\n        driver = webdriver.Chrome(executable_path=r'C:\\driver\\chromedriver.exe')\n        driver.get(conf.url)\n        driver.maximize_window()\n        driver.implicitly_wait(10)\n        # 用户登录\n        login_successfully(driver,root_username,root_password)\n        time.sleep(3)\n        # 进入设备列表\n        js = 'document.getElementsByClassName(\"el-menu-item\")[2].click()'\n        driver.execute_script(js)\n        time.sleep(1)\n        driver.get_screenshot_as_file(r'C:\\Project\\noc_ui_auto\\screenshot\\{}.png'.format(datetime.now().strftime('%Y-%m-%d')))\n        get_log().info('截图成功')\n        time.sleep(3)\n        # 选择指定设备\n>       search_sn_and_click(driver, conf.except_sn, \"online\", 3)\n\ntestcase\\conftest.py:47: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\ncommon\\user_public_fun.py:22: in search_sn_and_click\n    EC.element_to_be_clickable((By.XPATH, UserPublicLocators.sn_input))).click()\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <selenium.webdriver.support.wait.WebDriverWait (session=\"134986fb71990931a3613fd79f9d9d8e\")>\nmethod = <selenium.webdriver.support.expected_conditions.element_to_be_clickable object at 0x000001D6B5153048>\nmessage = ''\n\n    def until(self, method, message=''):\n        \"\"\"Calls the method provided with the driver as an argument until the \\\n        return value is not False.\"\"\"\n        screen = None\n        stacktrace = None\n    \n        end_time = time.time() + self._timeout\n        while True:\n            try:\n                value = method(self._driver)\n                if value:\n                    return value\n            except self._ignored_exceptions as exc:\n                screen = getattr(exc, 'screen', None)\n                stacktrace = getattr(exc, 'stacktrace', None)\n            time.sleep(self._poll)\n            if time.time() > end_time:\n                break\n>       raise TimeoutException(message, screen, stacktrace)\nE       selenium.common.exceptions.TimeoutException: Message:\n\nC:\\Users\\Administrator\\AppData\\Roaming\\Python\\Python36\\site-packages\\selenium\\webdriver\\support\\wait.py:80: TimeoutException",
+  "statusTrace" : "@pytest.fixture(scope='session',autouse=True)\n    def driver():\n        get_log().info('开始执行用例')\n        driver = webdriver.Chrome(executable_path=r'C:\\driver\\chromedriver.exe')\n        driver.get(conf.url)\n        driver.maximize_window()\n        driver.implicitly_wait(10)\n        # 用户登录\n        login_successfully(driver,root_username,root_password)\n        time.sleep(3)\n        # 进入设备列表\n        js = 'document.getElementsByClassName(\"el-menu-item\")[2].click()'\n        driver.execute_script(js)\n        time.sleep(1)\n        driver.get_screenshot_as_file(r'C:\\Project\\noc_ui_auto\\screenshot\\{}.png'.format(datetime.now().strftime('%Y-%m-%d')))\n        get_log().info('截图成功')\n        time.sleep(3)\n        # 选择指定设备\n>       search_sn_and_click(driver, conf.except_sn, \"online\", 3)\n\ntestcase\\conftest.py:47: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\ncommon\\user_public_fun.py:22: in search_sn_and_click\n    EC.element_to_be_clickable((By.XPATH, UserPublicLocators.sn_input))).click()\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <selenium.webdriver.support.wait.WebDriverWait (session=\"fa3716fdd15e030e94acb5e6e38af818\")>\nmethod = <selenium.webdriver.support.expected_conditions.element_to_be_clickable object at 0x0000024BDAAE43C8>\nmessage = ''\n\n    def until(self, method, message=''):\n        \"\"\"Calls the method provided with the driver as an argument until the \\\n        return value is not False.\"\"\"\n        screen = None\n        stacktrace = None\n    \n        end_time = time.time() + self._timeout\n        while True:\n            try:\n                value = method(self._driver)\n                if value:\n                    return value\n            except self._ignored_exceptions as exc:\n                screen = getattr(exc, 'screen', None)\n                stacktrace = getattr(exc, 'stacktrace', None)\n            time.sleep(self._poll)\n            if time.time() > end_time:\n                break\n>       raise TimeoutException(message, screen, stacktrace)\nE       selenium.common.exceptions.TimeoutException: Message:\n\nC:\\Users\\Administrator\\AppData\\Roaming\\Python\\Python36\\site-packages\\selenium\\webdriver\\support\\wait.py:80: TimeoutException",
   "flaky" : false,
   "newFailed" : false,
   "newBroken" : false,
@@ -22,9 +22,9 @@
   "beforeStages" : [ {
     "name" : "driver",
     "time" : {
-      "start" : 1699174583957,
-      "stop" : 1699174616069,
-      "duration" : 32112
+      "start" : 1699176373850,
+      "stop" : 1699176406920,
+      "duration" : 33070
     },
     "status" : "broken",
     "statusMessage" : "selenium.common.exceptions.TimeoutException: Message: \n\n",
@@ -32,25 +32,25 @@
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : true,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : true
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 0
   }, {
     "name" : "delet_log",
     "time" : {
-      "start" : 1699174583957,
-      "stop" : 1699174583957,
+      "start" : 1699176373850,
+      "stop" : 1699176373850,
       "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : false,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
   } ],
   "afterStages" : [ ],
   "labels" : [ {
@@ -73,7 +73,7 @@
     "value" : "ycccccc"
   }, {
     "name" : "thread",
-    "value" : "9544-MainThread"
+    "value" : "10400-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -101,6 +101,6 @@
     } ],
     "tags" : [ "remote_management" ]
   },
-  "source" : "508bc4929cc3f3cf.json",
+  "source" : "57d1af3d94ec2de7.json",
   "parameterValues" : [ ]
 }

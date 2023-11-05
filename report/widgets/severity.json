@@ -1,19 +1,19 @@
 [ {
-  "uid" : "abf285c3528d9aa6",
+  "uid" : "50d7196da5be191e",
   "name" : "【保存】开关打开时，且当端口号和IP地址格式都正确，点击“保存”后有toast提示【NOC-7391】",
   "time" : {
-    "start" : 1699174583956,
-    "stop" : 1699174583956,
+    "start" : 1699176373849,
+    "stop" : 1699176373849,
     "duration" : 0
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "508bc4929cc3f3cf",
+  "uid" : "57d1af3d94ec2de7",
   "name" : "【正确性检查】能正常修改配置，并下发成功【NOC-10087】",
   "time" : {
-    "start" : 1699174616103,
-    "stop" : 1699174616103,
+    "start" : 1699176406955,
+    "stop" : 1699176406955,
     "duration" : 0
   },
   "status" : "broken",
