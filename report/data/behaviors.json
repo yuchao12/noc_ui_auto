@@ -1,5 +1,43 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "远程管理模块",
+    "children" : [ {
+      "name" : "【保存】开关打开时，且当端口号和IP地址格式都正确，点击“保存”后有toast提示【NOC-7391】",
+      "uid" : "abf285c3528d9aa6",
+      "parentUid" : "9e24b59b86609b04f5a7f3b7f723029b",
+      "status" : "broken",
+      "time" : {
+        "start" : 1699174583956,
+        "stop" : 1699174583956,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "【正确性检查】能正常修改配置，并下发成功【NOC-10087】",
+      "uid" : "508bc4929cc3f3cf",
+      "parentUid" : "9e24b59b86609b04f5a7f3b7f723029b",
+      "status" : "broken",
+      "time" : {
+        "start" : 1699174616103,
+        "stop" : 1699174616103,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9e24b59b86609b04f5a7f3b7f723029b"
+  } ]
 }

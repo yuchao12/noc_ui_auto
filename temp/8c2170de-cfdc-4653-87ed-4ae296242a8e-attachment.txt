@@ -1,0 +1,3 @@
+INFO     root:get_log.py:133 开始执行用例
+INFO     root:get_log.py:133 用户登录
+INFO     root:get_log.py:133 截图成功

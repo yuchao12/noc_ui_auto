@@ -1,7 +1,0 @@
-INFO     root:get_log.py:133 开始执行用例
-INFO     root:get_log.py:133 用户登录
-INFO     root:get_log.py:133 截图成功
-INFO     root:get_log.py:133 设备状态是icon icon--online
-INFO     root:get_log.py:133 选择指定设备成功
-INFO     root:get_log.py:133 这是第1次进入
-INFO     root:get_log.py:133 这是第2次进入
